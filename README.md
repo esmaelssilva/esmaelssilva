@@ -22,6 +22,5 @@ Hello there! 👋
     height="60"
     style="flex-shrink:0;"
   />
-  <span>Certified Kubernetes Administrator (CKA)
-</span>
+<span style="font-weight:600;">Certified Kubernetes Administrator (CKA)</span>
 </div>
