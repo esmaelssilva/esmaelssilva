@@ -2,13 +2,13 @@
 **`ITOps`**
 
 
-<div style="display:flex; align-items:center; gap:8px;">
+<div align="center" style="display:inline-flex; align-items:center; gap:10px;">
   <img
-    alt="Azure AZ-305 Certified badge"
+    alt="azure az-305 certified badge"
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg"
     width="60"
     height="60"
-    style="flex-shrink:0;"
+    style="vertical-align:middle;"
   />
-  <span>Microsoft Certified: Azure Solutions Architect Expert</span>
+  <span style="font-weight:600;">Microsoft Certified: Azure Solutions Architect Expert</span>
 </div>
